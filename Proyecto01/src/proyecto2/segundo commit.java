@@ -15,7 +15,8 @@ public class Proyecto2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Ejemplo de Java Versionado a través de Git Manejado desde GitHub");
+        System.out.println("Ejemplo de Java Versionado a través de Git Manejado desde GitHub Creado por Aldrin-dux
+");
     }
     
 }
